@@ -1,3 +1,3 @@
 # Tindog-website
 
-![](image/Screenshot1)
+![](image/Screenshot1.png)
